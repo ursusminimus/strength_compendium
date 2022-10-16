@@ -1,4 +1,4 @@
-cd /c/dev/strength_compendium/
+#cd /c/dev/strength_compendium/
 git pull
 git status
 git add --all
