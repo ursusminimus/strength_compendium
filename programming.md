@@ -24,7 +24,7 @@ Deadlift - 200-225-235 if I have a bad day and assuming 215-150=365 sub total
 | 2    | 2022-10-17 | Mo  |
 | 2    | 2022-10-18 | Di  | S 5x3, D-DE-8x1, RevHyper 3x10 |
 | 2    | 2022-10-19 | Mi  | DBOHP 5x10, PU 5x10, Curls 3x10, Grip 3x10 |
-| 2    | 2022-10-20 | Do  | B 5x3+2x5, S-DE-8x2, Rows 5x10 |
+| 2    | 2022-10-20 | Do  | B 5x3, S-DE-8x2, Rows 5x10 |
 | 2    | 2022-10-21 | Fr  |
 | 2    | 2022-10-22 | Sa  | D 5x3, B-DE-8x3, Abs 3x10 |
 | 2    | 2022-10-23 | So  | Parkour |
@@ -68,7 +68,8 @@ Legend:
 - DE (Dynamic Effort), TW (Technical Work), In(tentsity), Vo(Volume)
 - Technical Work 50-60% 1RM to keep frequency up without adding fatique. Goal is perfect technical proficiency
 
-'''
+Progression curves:
+
     Week         1  2  3  4  5  6  7
     No. Sets              18 21 19    per main lift
                     12 16          
@@ -86,11 +87,11 @@ Legend:
                           2  2
                     3  3
                  4
-'''
+
 
 # Plans for Theresa
 ## 2022-10 100kg Squat Plan
-Status quo: 80x3 YTS 4. 
+Status quo: 70-75x3 YTS 4. 
 
 Weaknesses: lower back, speed.
 
@@ -116,7 +117,8 @@ General set up:
 3. Day: Deadlift, Rev Hyper, Arm Pump
 
 W1W1: Weight x Reps x Set
-    Squat A: 70x3x3, 80x2x3
+
+    Squat A: 70x3x3, 80x2x3 - result: 65x3, 70x3x2, 72x2x3 on a bad day
     Squat B: Dynamic Effort 35x2x3, 40x2x3, 45x2x3
 
 W2W1:
@@ -146,11 +148,16 @@ W3T:
     Squat B: 90-95x1, 50-60x8x2
 
 W4W1:
-Squat A: 80x4x6
-Squat B: 85x2x6
+
+    Squat A: 80x4x6
+    Squat B: 85x2x6
+
 W4W2:
-Squat A: 85x3x6
-Squat B: 90x1x6
+
+    Squat A: 85x3x6
+    Squat B: 90x1x6
+
 W4T:
-Squat A: deload 55x5x5 + additional hip mobility work
-Squat B: 90-95x1, 50-60x8x2
+
+    Squat A: deload 55x5x5 + additional hip mobility work
+    Squat B: 90-95x1, 50-60x8x2
