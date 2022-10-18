@@ -68,7 +68,7 @@ Legend:
 - DE (Dynamic Effort), TW (Technical Work), In(tentsity), Vo(Volume)
 - Technical Work 50-60% 1RM to keep frequency up without adding fatique. Goal is perfect technical proficiency
 
-
+'''
     Week         1  2  3  4  5  6  7
     No. Sets              18 21 19    per main lift
                     12 16          
@@ -86,7 +86,7 @@ Legend:
                           2  2
                     3  3
                  4
-
+'''
 
 # Plans for Theresa
 ## 2022-10 100kg Squat Plan
@@ -98,47 +98,52 @@ Intermediate goals: 90, 95, 100
 
 Plan 4 waves to reach intermediate goals, each wave 3 weeks + test week
 
-Wave 1 - 85kg
-KW 42 - wave 1 week 1 - try out dynamic effort
-KW 43 - wave 2 week 1
-KW 44 - wave 2 week 2
-KW 45 - wave 2 test 85-90kg
-KW 46 - wave 3 week 1
-KW 47 - wave 3 week 2
-KW 48 - wave 3 test 90-95kg
-KW 49 - wave 4 week 1
-KW 50 - wave 4 week 2
-KW 51 - wave 4 test 100kg
-KW 52 - Christmas vacation
+1. KW 42 - wave 1 week 1 - try out dynamic effort
+2. KW 43 - wave 2 week 1
+3. KW 44 - wave 2 week 2
+4. KW 45 - wave 2 test 85-90kg
+5. KW 46 - wave 3 week 1
+6. KW 47 - wave 3 week 2
+7. KW 48 - wave 3 test 90-95kg
+8. KW 49 - wave 4 week 1
+9. KW 50 - wave 4 week 2
+0. KW 51 - wave 4 test 100kg
+1. KW 52 - Christmas vacation
 
 General set up:
-Day 1: Squat A, OHP, Pull Ups, Assistance as wanted
-Day 2: Squat B, Bench, Pull Ups, Assistance as wanted
-Day 3: Deadlift, Rev Hyper, Arm Pump
+1. Day: Squat A, OHP, Pull Ups, Assistance as wanted
+2. Day: Squat B, Bench, Pull Ups, Assistance as wanted
+3. Day: Deadlift, Rev Hyper, Arm Pump
 
 W1W1: Weight x Reps x Set
-Squat A: 70x3x3, 80x2x3
-Squat B: Dynamic Effort 35x2x3, 40x2x3, 45x2x3
+    Squat A: 70x3x3, 80x2x3
+    Squat B: Dynamic Effort 35x2x3, 40x2x3, 45x2x3
 
 W2W1:
-Squat A: 60-70x5x5
-Squat B: Dynamic Effort 40x2x12 (adjust based on feeling of previous DE day)
+
+    Squat A: 60-70x5x5
+    Squat B: Dynamic Effort 40x2x12 (adjust based on feeling of previous DE day)
 W2W2:
-Squat A: 75x3x3, 82.5x2x3
-Squat B: Dynamic Effort 45x2x12 (adjust based on feeling of previous DE day)
+
+    Squat A: 75x3x3, 82.5x2x3
+    Squat B: Dynamic Effort 45x2x12 (adjust based on feeling of previous DE day)
 W2T:
-Squat A: deload 50x5x5 + additional hip mobility work
-Squat B: 85-90x1, 50-60x8x2
+
+    Squat A: deload 50x5x5 + additional hip mobility work
+    Squat B: 85-90x1, 50-60x8x2
 
 W3W1:
-Squat A: 65-75x5x5
-Squat B: 80x2x6
+
+    Squat A: 65-75x5x5
+    Squat B: 80x2x6
 W3W2:
-Squat A: 80x3x6
-Squat B: 82.5x2x6
+
+    Squat A: 80x3x6
+    Squat B: 82.5x2x6
 W3T:
-Squat A: deload 55x5x5 + additional hip mobility work
-Squat B: 90-95x1, 50-60x8x2
+
+    Squat A: deload 55x5x5 + additional hip mobility work
+    Squat B: 90-95x1, 50-60x8x2
 
 W4W1:
 Squat A: 80x4x6
