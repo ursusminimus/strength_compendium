@@ -54,7 +54,7 @@ Deadlift - 200-225-235 if I have a bad day and assuming 215-150=365 sub total
 | 6    | 2022-11-16 | Mi  | - |
 | 6    | 2022-11-17 | Do  | B-In-3x3+3x2 D-DE-1x3 S-TW-5x3x120 PullUps-5x10 |
 | 6    | 2022-11-18 | Fr  | - |
-| 6    | 2022-11-19 | Sa  | D-In-3x2+3x1 S-DE-8x2 B-TW-5x3x |
+| 6    | 2022-11-19 | Sa  | D-In-3x2+3x1 S-DE-8x2 B-TW-5x3x90 |
 | 6    | 2022-11-20 | So  | Parkour (easy) |
 | 7    | 2022-11-21 | Mo  | - |
 | 7    | 2022-11-22 | Di  | S-B-D Opener |
@@ -88,8 +88,39 @@ Progression curves:
                     3  3
                  4
 
+### Result
+Around Week 3 my wrist/thumb of the left hand started hurting a lot. This meant I basically skipped 1 week of training. In week 6, I got corona and canceled the final meet preparation.
+Other than that, it feld like the prep is going well. Specifically the adapted dynamic effort days were fun, easy on recovery and good for practicing technique. The technique days in the final weeks were probably too much.
+I should try again sometime with the speed reps. I think I need more volume in the main lifts.
 
-# Plans for Theresa
+## 2022-12 Post-Corona Infection Recovery Plan
+Idea was to start out slow, then increase pace and volume. Add more exercise variety then in the final phases of the meet prep, start getting back into WL.
+In practice I did whatever I wanted to. Had some heavy sessions and some light ones. Achieved 4 per Week training frequency again, but did not do much Parkour.
+
+## 2023 Plan A
+    "Don't major in the minors"
+Play around with increasing volume in the major lifts and moving from bullshit assistance to compound assistance, e.g. triceps extensions to dips.
+
+Reduced Assistance selection:
+- Push: Dips, DB OHP, DB Bench
+- Pull: Pullups, 1 Arm DB Rows, 1 Arm Seated Cable Rows
+- Rest: Abs, Curls, Grip, Handstand
+- Metcon: Alsruhe-Sets
+
+I noticed that:
+- Biceps opener is a really nice way to get curls done with increased ROM
+- Concept 2 Rower is a great warmup
+
+General Layout: Train on Mo, Di, Do, Fr. Add Pk on Sundays.
+A: 4+4 WL, S, Push, Grip
+A: 4+4 WL, B, Pull, Curls
+A: 4+4 WL, D, Push, Handstand
+A: 4+4 WL, O, Pull, Abs
+or something like that - actually this is stupid. Let's do it differently.
+Need to expand the plan with more specific weights and rep ranges. Specifically, try to push the volume of the main lifts further.
+
+
+# Plans for T.
 ## 2022-10 100kg Squat Plan
 Status quo: 70-75x3 YTS 4. 
 
