@@ -1,3 +1,9 @@
+# General Information
+Notation:
+* **5x10** is Sets x Reps at unspecified weight
+* **100x10 x5** is Weight x Reps x Sets
+* **5x10@8** is Sets x Reps at a trageted RPE or YTS
+* **100x10 x5@8** is Weight x Reps x Sets at a expected RPE or YTS
 
 # Special Plans
 ## 2022-10 Powerlifting meet preparation
@@ -97,8 +103,9 @@ I should try again sometime with the speed reps. I think I need more volume in t
 Idea was to start out slow, then increase pace and volume. Add more exercise variety then in the final phases of the meet prep, start getting back into WL.
 In practice I did whatever I wanted to. Had some heavy sessions and some light ones. Achieved 4 per Week training frequency again, but did not do much Parkour.
 
-## 2023 Plan A
+## 2023 Plan - Sport-Block Periodization
     "Don't major in the minors"
+    "Don't do everything all at once"
 Play around with increasing volume in the major lifts and moving from bullshit assistance to compound assistance, e.g. triceps extensions to dips.
 
 Reduced Assistance selection:
@@ -192,3 +199,29 @@ W4T:
 
     Squat A: deload 55x5x5 + additional hip mobility work
     Squat B: 90-95x1, 50-60x8x2
+
+## 2023-01 100kg Squat Plan, Attempt #2
+Previous plan was derailed by private life events.
+
+Starting point: easy 82.5kg 1RM test, failed 87.5kg twice despite looking easy.
+
+Intermediate goals: 90x1, 95x1, 85x2, 90x2
+
+| Week | What | Session A | Session B |
+| --- | --- | --- | --- |
+| KW1  | Intro   | 60x5 x5 |70x3 x3, 80x2 x3 (work up to) |
+| KW2  | Deload  | 5x5 Split Squat | Leg Extensions & Leg Curls 5x10 |
+| KW3  | Train 1 | 80x3 x6 | (m)x5 x4 Markus-Squats |
+| KW4  | Train 2 | 82.5x2 x6 | (m)x5 x4 Markus-Squats |
+| KW5  | Test    | 1RM Test (90) | 60x8 x3 |
+| KW6  | Deload  | 5x5 Split Squat | Leg Extensions & Leg Curls 5x10 |
+| KW7  | Train 1 | 82.5x3 x6 | (m+2.5)x5 x4 Markus-Squats |
+| KW8  | Train 2 | 85x2 x6 | (m+2.5)x5 x4 Markus-Squats |
+| KW9  | Test    | 1RM Test (95) | 65x8 x3 |
+| KW10 | Deload  | 5x5 Split Squat | Leg Extensions & Leg Curls 5x10 |
+| KW11 | Train 1 | 85x3 x6 | (m+5)x5 x4 Markus-Squats |
+| KW12 | Train 2 | 87.5x2 x6 | (m+5)x5 x4 Markus-Squats |
+| KW13 | Test    | 1RM Test (100) | have fun |
+
+(m) - test in KW3 what a good weight would be
+if KW1 80x2 is not possible, adjust all weights in Session A with actually achieved weight as baseline
