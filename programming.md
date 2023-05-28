@@ -120,6 +120,105 @@ or something like that - actually this is stupid. Let's do it differently.
 Need to expand the plan with more specific weights and rep ranges. Specifically, try to push the volume of the main lifts further.
 
 
+## 2023-04-01 Post-China Weightlifting Competition Preparation
+Competition was on 2023-04-22, so I had 3 weeks to prepare from a fully recovered state.
+
+Review:
+Peaked in Week 2 already, pushed it too hard it seems.
+Competition went ok, but could be better if I timed the peaking more precisely.
+Could have taken more time for technique work before going heavy. Overall load was good, I was pretty exhaused by the end of it, but still fit enough for the competition.
+
+## 2023-04-22 - 2023-05-24
+Chaos training, was too lazy to write a new plan. Check logs for details.
+
+## 2023-05-25 7-Week Plan before Summer Vacation
+- Focus on Powerlifting instead of weightlifting
+- Ease into skill work and start building aerobic capacity
+
+End of Year Goals:
+- set all time bench PR (only one left since broken arm)
+- Drop bodyweight to <100kg
+- regain mobility and stability in hips and especially shoulders
+    - should be noticeable in hanging movements
+- Regain Skills:
+    - parkour - establish regular (1+ times a week) routine
+    - hold free standing handstand for >10s
+    - re-learn free standing backflip
+- explore:
+    - Crossfit/MetCons/Cardio - for long term health
+        - actual goal is aerobic capacity and strength endurance
+    - Calisthenics - for fun and entertainment
+
+### Key setup
+4 Day Split based on non-interference combos
+1. Squat + Pull Ups + MetCon
+2. Bench + Rows + MetCon
+3. Deadlift + OHP + MetCon
+4. Assistance Day
+8 sets for main lifts + volume lifts to reach minimum adaptation stress
+Cluster assistance on a separate day to focus on the main lifts. Add metcons or skill work instead.
+Use lift variants wisely.
+
+Classic Block Periodization: 3 Weeks volume, 2 weeks transformation, 2 weeks realisation
+
+Weekly schedule:
+KdK - KdK - Parkour? - KdK - KdK - Sabbat - Parkour
+
+### Sets and Reps
+SBD:
+| Week | Main    | Variant 1 | Vatiant 2 |
+| ---- | ------- | --------- | --------- |
+|   1  | 6r x 3s |  6r x 3s  | 10+r x 2s |
+|   2  | 8r x 3s |  8r x 3s  | 10+r x 2s |
+|   3  | 10r x 3s| 10r x 3s  | 10+r x 2s |
+|   4  | 5r x 3s |  5r x 3s  | 10+r x 1s |
+|   5  | 4r x 4s |  2r x 6s  | 10+r x 1s |
+|   6  | 3r x 3s | DE MetCon | -         |
+|   7  | 1RM     | 1RM       | 1RM       |
+
+Rows, Pull Ups: match number of sets of B, S and stay at 8-10 reps
+OHP: keep volume higher in Weeks 4, 5, 6:
+| Week | Main    | Variant 1 | Vatiant 2 |
+| ---- | ------- | --------- | --------- |
+|   4  | 5r x 3s |  8r x 3s  | 10+r x 1s |
+|   5  | 4r x 4s |  8r x 2s  | 10+r x 1s |
+|   6  | 3r x 3s | DE MetCon | -         |
+|   7  | 1RM     | 1RM       | 1RM       |
+
+### Weight targets
+| Week |  S  |  B  |  D  |  O  |
+| ---- | --- | --- | --- | --- |
+|   1  | 160 | 120 | 180 |  70 |
+|   2  | 160 | 120 | 180 |  70 |
+|   3  | 160 | 120 | 180 |  70 |
+|   4  | 180 | 130 | 200 |  80 |
+|   5  | 190 | 135 | 210 |  85 |
+|   6  | 190/200 | 135/140 | 210/225 | 95/90 |
+|   7  | 225 | 160 | 250 | 100 |
+
+### Assistance Day: 3x10 each, prefereably as super sets
+- Abs (HLR, Wheel)
+- Biceps (Opener, Curls)
+- Chest (Flies)
+- Back (Reverse Flies)
+- Shoulders (Raises)
+- Triceps (Extensions/Opener)
+- Grip (Dead Hangs/Implements)
+
+### MetCon Ideas
+See how it goes and adapt
+1. Concept2 Rows - 200, 250, 300 kcal
+2. Burpees - 60, 80, 100
+3. KB Circuit - 200, 250, 300 total reps
+4. Jump Rope - 5, 6, 8 min
+5. EMOM Bear Complex 10 min - #3, #5, #7
+6. EMOM Dynamic Effort Main Lifts (S=2 reps, B=3 reps, D=1 rep, O=3 reps)
+7. Have some fun
+
+
+
+
+
 # Plans for T.
 ## 2022-10 100kg Squat Plan
 Status quo: 70-75x3 YTS 4. 

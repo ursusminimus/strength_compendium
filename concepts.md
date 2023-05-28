@@ -45,3 +45,25 @@ YTS:
 5. Final rep was heavy, but solid. No reps in reserve.
 6. Ground out the rep with the last desparate effort. Almost failed.
 7. Set to actual failure giving all out effort (no early quitting allowed)
+
+## Non-Interference Combinations
+To reduce total training time, it makes sense to alternate sets of 2+ different movements.
+Typically, these are based on antagonists, but they tend to interfere (e.g. Pull Ups and OHP).
+Therefore, it is better to consider "superset interference" directly and not via proxy metric.
+From experience, these combinations of the main lifts work well together:
+1. Squats and Pull Ups - the lat activation of the pull up even helps to get upper back tightness during Squats
+2. Bench and Rows - this is a classic
+3. Deadlift and OHP - especially OHP from rack/blocks
+
+## Main vs. Volume lifts, Acessories
+In principle, I consider Squat (Squat), Bench (Horizontal Press), Deadlift (Hinge) equally important to Overhead Press (Vertical Press), Pull Ups (Vertical Pull) and Rows (Horizontal Pull).
+However, SBD responds well to high intensity training, while OHP/PU/Rows respond better to volume.
+Therefore it makes sense to divide them into two groups for program building: 3 main lifts + 3 volume lifts
+
+Regarding accessories, there is a large number of possible things to do. However, some key areas are useful
+1. Adressing Weak Points: Abs, Biceps, Grip - these are partially trained with the 3 main&volume lifts, but additional work helps.
+2. Pre-Hab style work: Back, Shoulders/Chest, Hips - these tend to get thight and require some additional light work to get moving again
+    Back: Reverse Hyper, Decompression
+    Hips: Deep Squat Position, Lunges, Cossack Squats
+    Shoulders/Chest: Dead Hangs, Rotations, Raises
+3. Skill work for life quality like handstand, balance, isometric holds (levers), flips - mainly fun driven, but also work well as General Physical Preparedness
