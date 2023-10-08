@@ -1,5 +1,5 @@
 #cd /c/dev/strength_compendium/
-git pull
+#git pull
 git status
 git add --all
 echo Please enter commit comment
