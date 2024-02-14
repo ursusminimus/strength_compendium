@@ -223,6 +223,39 @@ See how it goes and adapt
 7. Have some fun
 
 
+## 2023H2 Plan
+### Key Concept
+- Use Multi-Domain Training
+- Use Multi-Attribute Training
+via Block Periodization
+
+Main Movements:
+- Big Lower: Squat, Deadlift
+- Big Upper: Bench, OHP
+- Big Row: Pull-Up, Row
+- Big WL: Snatch, CnJ
+- Key Assistance: Grip, Biceps, Shoulder, Abs
+- Mobility issues: Shoulders, Hips, Upper Back
+
+Standard Microcycle Layout
+1. S - PU - Core
+2. B - Row - Grip
+3. D - O - Core
+4. PU - S - Shoulders
+5. R - B - Core
+6. O - D - Biceps
+Priority: Main - Alt - Assistance
+Time estimate: Warmup (10 min) - Skill Work (10) - Main&Alt (30) - Assistance (15)
+
+Progression:
+- Build Work capacity over time
+    - add recovery budget with a sufficiently simple system
+- Block preriodization should be realized via modules -> Modular Training System
+- Use Heart Rate to auto-regulate Cardio Intensity (Time @ HR instead of Distance @ Time)
+- Use Heart Rate at warmup to estimate daily shape
+
+Modular Training System
+see own .md file.
 
 
 

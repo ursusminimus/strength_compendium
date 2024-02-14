@@ -42,8 +42,13 @@ Alternating Sets:
 1. Legs - Walking Lunges or Bulgarian Split Squats with Kettlebells
     - Possible to alternate Walking Lunges and Split Squats each week
     - TODO discuss preferences and how to program
-2. Pull Ups 
-     - TODO discuss how to program
+    - Split squats as base exercise and bodyweight walking lunges as assistance?
+        - 3 sets of 8-12 reps base
+        - 2 additional sets of different exercise (increase to 3 later) PRIO 3
+2. Pull Ups
+    - Lat Pull Down (no passive hang) - 5 sets, 8-12 reps
+        - TODO write down specific weights for progression: 35kg starting weight
+    - TODO discuss how to program progression of regular pullup
 
 #### Session B:
 1. Overhead Press
@@ -70,8 +75,9 @@ Alternating Sets:
     - Arching: Bodyweight Reverse Hyper
 
 #### Session B:
-- One Arm Farmers Walk 3 x 10m
-- Bottoms Up Kettlebell Hold Walk 3 x 10m
+- One Arm Farmers Walk 3 x 10m x L&R
+- Bottoms Up Kettlebell Hold Walk 3 x 10m x L&R
+- Sandbag Carries 3x20m
 
 #### Session C:
 Master each of the exercises one by one per session.

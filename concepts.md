@@ -67,3 +67,60 @@ Regarding accessories, there is a large number of possible things to do. However
     Hips: Deep Squat Position, Lunges, Cossack Squats
     Shoulders/Chest: Dead Hangs, Rotations, Raises
 3. Skill work for life quality like handstand, balance, isometric holds (levers), flips - mainly fun driven, but also work well as General Physical Preparedness
+
+
+## Movement Domain Tetrahedron
+Reps - Holds - Complexes - Locomotion
+
+- Reps - typical strength training, like a set of 5 squats
+- Holds - isometric holds, e.g. plank or dead hang for grip
+- Complexes/Combos - complex movements with many elements, e.g. Weightlifting complexes
+- Locomotion - moving exercises e.g. Farmer's Walk, most of parkour
+
+Not all sports involve all domains. Specifically, Powerlifting and Weightlifting are extremely one-sided. One should consider exploring the other domains for health & gains.
+
+Sport | Reps | Holds | Complexes | Locomotion
+--- | --- | --- | --- | ---
+Powerlifting | 5 | 1 | 1 | 1
+Weightlifing | 5 | 1 | 3 | 1
+Strongman | 4 | 3 | 3 | 3
+Crossfit | 4 | 2 | 4 | 3
+Calisthenics | 3 | 5 | 2 | 1
+Parkour | 2 | 2 | 5 | 5 |
+Cardio | 2 | 1 | 1 | 5
+Bodybuilding | 5 | 2 | 1 | 1
+Movement Culture | 2 | 3 | 5 | 5
+Climbing | 1 | 4 | 4 | 3
+MMA | 1 | 1 | 5 | 5
+
+TODO: Simplify to 3-level scale. Review Answers
+
+
+## Attribute Tetrahedron
+STRength - SPeeD - DEXterity - CONstitution
+
+STR - maximum force output, e.g. 1 rep max squat
+SPD - rate of force development, e.g. throwing, sprinting, jumping
+DEX - ability to precisely control the body, e.g. evading strikes in MMA or rail precisions in Parkour
+CON - work capacity in aerobic and anaerobic domain. e.g. 10 rep squat and 30 minute run. Might be useful to differentiate it further in aerobic and anaerobic? However, it is probably highly correlated.
+
+Similar to the movement domains, different sport have different focus. It might make sense to deal with excessive weaknesses.
+Training plans can be strucured well by focusing on a specific attribute within a training block.
+However, the attributes differ by their recovery demand. SPD exhaustion feels different than STR or CON. However, DEX is probably the attribute with least recovery demand.
+The balance of recovery should be considered when using multi-attribute training by not trying to do everything all at once.
+
+Sport | STR | CON | SPD | DEX | Variety
+--- | --- | --- | --- | --- | ---
+Powerlifting | 5 | 1 | 1 | 1 | 1
+Weightlifing | 5 | 1 | 4 | 2 | 2
+Strongman    | 5 | 3 | 2 | 3 | 3
+Crossfit     | 2 | 5 | 3 | 4 | 5 
+Calisthenics | 4 | 2 | 1 | 2 | 2
+Parkour      | 3 | 2 | 4 | 5 | 4
+Cardio       | 1 | 5 | 1 | 1 | 1
+Bodybuilding | 3 | 2 | 1 | 1 | 2
+Movement Culture | 2 | 1 | 1 | 5 | 2
+Climbing     | 2 | 3 | 2 | 4 | 2
+MMA          | 2 | 5 | 5 | 5 | 5 
+
+TODO: Simplify to 3-level scale. Review Answers
