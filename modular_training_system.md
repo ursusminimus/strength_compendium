@@ -1,14 +1,100 @@
 # Modular Training System
-The modular training system is the next evolution step in my training programs.
-The core idea is to introduce a new abstraction layer in the program to group movements, sets and reps into **Modules**. Each Module can be any type of activity; e.g. 3 sets of the main exercise or a 20 min cardio session.
-This concept helps to deal with disparate activities within a single session and adresses a core issue I have with programming: often, the day-to-day variation in motivation and energy is so large, that I skip parts of the planned training sessions. After fighting this fact for years, now it the time to embrace it. To deal with that, each module needs some kind of priorization and resource budget so that the selection is more considered than before.
+Over the past 3 years I had decent success with autoregulation and block periodization, but consistently struggled with writing and then following my training plans. The modular training system is the next iteration of my training programs (developed over the first half of 2024) to adress both problems by:
+- making planning of the training program quick and easy
+- adjust to external constraints flexibly
+- creating a sense of commitment to well-designed program
 
-## Core Idea
+The core idea is to modularize the program on every level. The modules can be re-used to speed up training development but provide flexibility to work around constraints.
+
+## Planning levels
+| Level            | Short  | Description | Example |
+|------------------|--------|----------|----------|
+| Macrocycle       | Season | Organizes the year into ca. 4 seasons | Spring Season   |
+| Mesocycle        | Block  | ca. 6 week block within season | Strength Block  |
+| Microcycle       | Week   | ca. 7 day period within block | Volume Week 1  |
+| Training Session | Unit   | Structures a single session | Squat&Bench Volume Session |
+| Module           | Mod    | Defines scope and focus for a part of the session | Squat Volume  |
+| Submodule        | Sub    | Specific instructions of variant/sets/reps | Squat 180x6x4 |
+
+### Macrocycle ("Season")
+General idea is to divide the year in 4 seasons, each roughly 3 months (13 weeks).
+The boundaries for athletes are typically defined by sport events, such as competitions, off-season vs. play season, etc.
+Since I am not an athlete, my blocks are more easily defined by interruptions: vacations, business trips, etc..
+The last week(s) before and the first after an interruption need to be adjusted to it's type. It makes a big differece if I am hiking in Nepal or chilling under the Christmas tree. If the interruptions are tricky to manage otherwise, one could add a fifth season. 
+
+The obvious interruptions are:
+| Interruption | Start of Season | Weather | Focus |
+| ------------ | --------------- | ------- | ----- |
+| Christmas break | Winter | cold  | indoor - PL, WL, ... |
+| Easter vacation | Spring | fresh | outdoor - parkour, running |
+| Summer vacation | Summer | hot   | outdoor - parkour, running |
+| Fall vacation   | Fall   | rainy | indoor - PL, WL, ... |
+
+A calendar comes in handy to plan the whole year including vacations.
+
+### Mesocycles ("Blocks")
+Based on previous experience, I need deloads around every 6th week. For a long time I tried 531's 3+1 week deload, which was too frequent. Then, I tried running 2 531 blocks back to back, which also didn't work, because I usually broke down in week 5 or so. Therefore:
+
+Standard block: 6 weeks = 5 load + 1 deload
+
+This means each season is roughly 2 blocks. However, the breakpoints in the calendar will require to plan around them with shorter blocks.
+
+| Remaining Weeks | Block length |
+|----------|----------|
+| 8+       | Plan 6 week block, then review this table    |
+| 7        | 4 weeks load + 1 deload + 2 load  |
+| 6        | 5 weeks load + 1 deload (Standard)  |
+| 5        | 4 weeks load + 1 deload  |
+| 4        | 4 weeks load |
+| 3        | 3 weeks load |
+| 2        | 2 weeks load |
+| 1        | Have some fun |
+
+Each block should have a clear focus:
+- General Focus:
+    - endurance
+    - strength
+    - work capacity
+    - Skills, Mobility and Yoga
+- Sport Specific Focus
+    - Parkour
+    - Martial Arts
+    - Powerlifting
+    - Weightlifting
+    - CrossFit
+    - Strongman
+
+### Microcycles ("Weeks")
+The focus of the block determines how often I train what within the Microcycle and the progression across the microcycles. Try to stay with 7 day microcycles, as they are much easier to manage than other formats. The rest of the world is working on a weekly schedule. A 14 day microcycle can be broken down into two alternating 7-day microcycles. I never had the need for Microcycles shorter than 7 days. The only other option I tried was 10-day microcycles. These were usually only relevant for Powerlifting/Weightlifting, as Parkour was on fixed weekdays anyway.
+
+| Type           | Focus         | Description | 6-unit 7-day Microcycle |
+|----------------|---------------|-------------|-------------|
+| General        | Endurance     | Maintenance for strength and skills, do some running | 3x run<br> 2x strength<br> 1x Parkour |
+| General        | Strength      | Increase maximum strength  | 4x strength<br> 1x run<br> 1x Parkour |
+| General        | Work Capacity | Build up volume over time  | 3x strength<br> 2x run<br> 1x Parkour |
+| General        | Skills, Mobility and Yoga | Focus on recovery, skills like handstand etc.  | 2x skill/strength<br> 1x Yoga<br> 2x run<br> 1x Parkour |
+| Sport-Specific | Parkour       | More parkour, maintain others | 2x strength<br> 1x run<br> 3x parkour |
+| Sport-Specific | Martial Arts  | Add martial arts, maintain others | 2x strength<br> 1x run<br> 1x parkour<br> 2x BJJ |
+| Sport-Specific | Powerlifting  | Peaking for a competition | 4x Powerlifting<br> 1x run<br> 1x Parkour |
+| Sport-Specific | Weightlifting | Peaking for a competition | 4x Weightlifting<br> 1x run<br> 1x Parkour |
+| Sport-Specific | CrossFit      | Balanced + Crossfit | 2x strength<br> 1x run<br> 1x CrossFit<br> 1x Parkour |
+| Sport-Specific | Strongman     | Balanced + Strongman | 2x strength<br> 1x run<br> 1x Strongman<br> 1x Parkour |
+
+6 is a number of units that worked well for me for many years (initially 3x Parkour + 3x Powerlifting, but with some deviations with MMA, bouldering, etc.).
+Realisitically, the strength blocks have the highest recovery demand. Therefore it is unrealisitic to increase the number of units by increasing the number of strength units. However, some units can be added (to e.g. a total of 7 or even 8+) when we consider Yoga, Mobility/Recovery, Martial Arts etc.
+
+#### Example of the layout of a "Work Capacity"-Block microcycle
+| Monday   | Tuesday  | Wednesday | Thursday | Friday   | Saturday | Sunday   |
+|----------|----------|-----------|----------|----------|----------|----------|
+| Run      | Strength | Strength  | Strength | Run      | -        | Parkour  |
+|          | Squat, Bench, Row | Assistance | Deadlift, OHP, PullUp | | | |
+
+### Training Sessions ("Units")
 The training plan breaks down single training sessions further into modules. Each module can progress differently over time.
 The modules are prioritized to deal with life getting in the way. High priority modules should always be done. Medium modules should be done by default, unless you have a really bad day. Goal is 90% of the time.
 Low prio modules can be done when you have a good day. Goal is 30% of the time. If not, ask why you have so few good days.
 The modules help make specialized training sessions for each main lift, because they benefit from different things.
-In addition to module-wise progression, when using block periodization one can push the progression of certain modules to change focus (e.g. in a DEX block use autoregulated volume, in STR block use planned linear progression to push harder).
+In addition to module-wise progression, when using block periodization one can push the progression of certain modules to change focus (e.g. in a endurance block use autoregulated volume, in strength block use planned linear progression to push harder).
 This allows to keep the training structure consistent -> less effort writing programs, but changes the overall focus and recovery budget of the program (move with intent!).
 
 ### Example Training Session
@@ -131,9 +217,19 @@ It is easier to guess YTS correctly for low-rep sets.
 
 #### Extended Assistance Module
 
-### Cardio
-#### Row Ergometer
-#### Biking
+## Cardio
+### Row Ergometer
+### Biking
 Typical module would be the 10.5km to work or 12km work to VfV distance
 
-#### Running
+### Running
+Running is best planned via Time @ Heart Rate range. The progression is to increase duration. This can be a bit hard outdoors because route length is fixed, but many routes can be adjusted on the fly to be a bit longer.
+
+Typical heart rate zones:
+1. very light: 50-60% = 100-120 bpm, target 110
+2. light: 60-70% = 120-140 bpm, target 130
+3. moderate: 70-80 % = 140-160 bpm, target 150
+4. high: 80-90% = 160-180bpm, target 170
+5. maximum: 90-100%, 180-200bpm, target 190
+
+#### 

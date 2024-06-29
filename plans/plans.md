@@ -257,6 +257,7 @@ Progression:
 Modular Training System
 see own .md file.
 
+Comment 2024-04-01: sessions 4-6 were too easy, microcycle was too imbalanced.
 
 
 # Plans for T.
