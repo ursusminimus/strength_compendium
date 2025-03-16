@@ -94,6 +94,23 @@ The goal is to increase the movement protfolio for the future.
 ## Mobility Work
 On demand. Again, CARs can be a useful tool. Use higher intensity than during warmup.
 
+# 2024 Additional Thoughts
+This was never fully implemented. The idea was to add skill work (L-Sit, Handstand etc.) for more variety.
+The training session would be modularized:
+1. Warm Up Module - 10 min - prio 1
+2. Skill Module - 10 min - prio 1
+3. Strength Module - 45-60 min
+    1. Main  - prio 1
+    2. Alt - prio 2
+    3. Assist - prio 3
+4. Mobility Module - 10 min - prio 2
+
+The plan are 3 weekly sessions (A, B, C):
+- A: Bench, Row, RDL, Abs
+- B: Squat, Pullups, Carry, Abs
+- C: OHP, Lat Pulldown, Reverse Hyper, Abs
+
+
 # Unfinished Business
 #### Core Exercise Selection:
     Plank
